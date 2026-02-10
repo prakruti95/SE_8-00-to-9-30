@@ -1,0 +1,56 @@
+Module 1- Theory + Practical [diagrams]
+Module 2- C
+Module 3- C++
+Module 4- Db
+
+Price
+Processor-Generation
+i5-6th gen
+RAM
+Graphics card
+SSD
+HDD
+
+
+https://www.tops-int.com/ [SSL Certificate]
+
+http://web.simmons.edu/~grovesd/comm244/notes/week2/links
+[No SSL certificate]
+
+https://prakrutitech.xyz/
+
+
+POP -> procedural oriented programming
+=> C
+
+OOP -> object oriented programming
+=> C++,Java,Php,Python,Dart,Kotlin
+
+=> WWW -> World Wide Web
+=> Collection of Webpages
+=> 
+
+Website: Online
+Php
+Java
+Python
+.net
+
+App : Online/Offline
+Android
+Ios
+Flutter-> App,Web,Desktop Software
+
+UML -> Unified Modeling Language
+Activity
+Flowchart
+DFD
+Usecase
+
+Download
+1. https://desktop.github.com/download/
+2. https://git-scm.com/install/
+
+
+
+
