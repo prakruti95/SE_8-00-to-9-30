@@ -1,0 +1,43 @@
+Activity diagram
+
+Protocols
+Security : 
+Hacking
+Encryption/Decryption
+
+APK -> Code
+
+
+
+
+SDLC -> Software Development Lifecycle
+
+Stages:
+
+Requirement Gathering
+Analysis
+Design
+Implementation
+Testing
+Maitenance
+
+Java - Eclipse
+Android/Flutter -> Android Studio
+Python/Php - Vscode
+
+AntiGravity
+
+
+Activity
+Usecase
+DFD Diagram ->Data flow diagram
+
+level 0
+level 1
+level 2
+
+
+
+
+
+
