@@ -1,0 +1,40 @@
+# ATM Management System - DFD Level 1 (System Overview)
+
+The Level 1 DFD breaks down the main system into its core sub-processes.
+
+```mermaid
+graph TD
+    User([User])
+    BankDB[(Bank Database)]
+    TransactionLog[(Transaction Log)]
+    
+    P1(1.0 Authenticate User)
+    P2(2.0 Check Balance)
+    P3(3.0 Withdraw Cash)
+    P4(4.0 Deposit Cash)
+    P5(5.0 Transfer Funds)
+    
+    User -->|Insert Card/PIN| P1
+    P1 -->|Verify Credentials| BankDB
+    BankDB -->|Valid/Invalid| P1
+    P1 -->|Access Granted| User
+    
+    User -->|Request Balance| P2
+    P2 -->|Query Balance| BankDB
+    BankDB -->|Balance Info| P2
+    P2 -->|Display Balance| User
+    
+    User -->|Request Withdrawal| P3
+    P3 -->|Check Funds| BankDB
+    BankDB -->|Funds Available| P3
+    P3 -->|Dispense Cash| User
+    P3 -->|Log Transaction| TransactionLog
+    
+    User -->|Deposit Envelope| P4
+    P4 -->|Update Account| BankDB
+    P4 -->|Log Transaction| TransactionLog
+    
+    User -->|Transfer Request| P5
+    P5 -->|Update Accounts| BankDB
+    P5 -->|Log Transaction| TransactionLog
+```

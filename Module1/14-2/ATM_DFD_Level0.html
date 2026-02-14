@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>mermaid.initialize({startOnLoad:true});</script>
+</head>
+<body>
+  <div class="mermaid">
+graph TD
+    User[User] -->|Insert Card/PIN, Request Transaction| ATM(ATM Management System)
+    ATM -->|Dispense Cash, Receipt, Balance Info| User
+    
+    ATM -->|Verify Account, Update Balance| BankDB[Bank Database]
+    BankDB -->|Account Details, Confirmation| ATM
+    
+    Admin[Administrator] -->|Maintenance, Refill Cash| ATM
+    ATM -->|System Status, Alerts| Admin
+  </div>
+</body>
+</html>
