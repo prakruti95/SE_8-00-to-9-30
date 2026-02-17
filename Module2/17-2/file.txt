@@ -1,0 +1,30 @@
+code:
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    printf("Hello World");
+    getch();
+}
+
+-> Setup : vscode
+
+->setup git bash
+git bash command
+
+step 1: download https://git-scm.com/downloads
+
+step 2: Install it
+
+step 3:
+
+Create a folder with any name
+create a file inside folder just write some content
+right click on folder and select open git bash here
+
+1.git init
+2.git add -A
+3.git status
+4.git commit -m "First Commit"
+5.git remote add origin https://github.com/prakrutitops/Java_Workspace_8-30-to-10-00.git
+6.git push origin master
