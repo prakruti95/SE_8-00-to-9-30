@@ -1,0 +1,61 @@
+Module 2 -> C Programming
+Extension -> .c
+
+Header File:
+
+which write on program's head that is called header files
+Extension -> .h
+
+stdio -> standard input output
+conio -> console input output
+
+# -> Preprocessor
+
+Header Files:
+
+#include<stdio.h>
+#include<conio.h>
+
+-> Every Program's Execution will start with main method
+
+void main() -> getch();
+int main()  -> return 0;
+
+printf("jkjsdjfksdjf")
+
+-> At the end of line put the semicolon(;)
+
+\n -> new line
+\t -> tab
+
+data type:
+
+integer -> int -> numeric value[1,2,3,4 etc..]
+%d
+
+float -> float -> decimal value[4.5,5.7....] -> 4 byte
+%f
+
+character -> char [Single Character -> 'T']
+%c
+
+double -> double -> decimal value[4.5555,5.78777....]-> 8 byte
+%lf
+
+==========================================
+Variable Declaration:
+int a;
+
+
+datatype var_name;
+int       a;
+
+============================================
+Operators:
+Arithmetic Op : +,-,*,/,%
+
+
+
+
+
+
