@@ -1,0 +1,58 @@
+Hello World
+\n
+\t
+
+int main()
+{
+}
+
+I = PRN/100
+Arithmetic Op: +,-,,/,*,%
+Relational Op: 
+<,>,<=,>=,==,!=
+
+a<b
+a>b
+
+
+5<2->false
+
+
+a=5
+b=2
+c=5
+
+a<b
+5<2
+
+a<=c
+a>=c
+
+a==c
+a==b
+
+a!=b
+a!=c
+
+if(statement)
+{
+}
+else
+{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
