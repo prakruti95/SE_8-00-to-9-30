@@ -1,0 +1,11 @@
+Userinput
+scanf
+
+Operators:
+Arithmetic 
+Relational
+
+Conditional statement:if-else
+else if
+
+
