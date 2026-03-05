@@ -1,0 +1,61 @@
+Loop:When you want to run same code again and again
+
+Types of Loop:
+1)Entry control loop : for,while
+2)Exit Control loop : do while
+
+unary op:
+
+a++ -> post increment
+++a -> pre increment
+a-- -> post decrement
+--a -> pre decrement
+
+
+
+
+1)
+for(initialization;condition;incre/decre)
+{
+	statement
+}
+
+2)
+initialization;
+
+while(condition)
+{
+ statement
+ incre/decre
+}
+
+3)
+initialization;
+
+do
+{
+  statement
+  incre/decre
+}
+while(condition);
+
+
+
+
+
+
+Patterns:
+*
+**
+***
+****
+*****
+
+
+
+
+
+
+
+
+
