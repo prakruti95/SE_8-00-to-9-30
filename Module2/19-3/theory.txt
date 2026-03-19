@@ -1,0 +1,18 @@
+Left to Right
+
+Right to Left
+
+Functions:When you want to reuse same code again and again at that time 
+you are using functions
+
+Types of Functions
+1)Inbuilt Functions:
+string
+math
+
+2)User defined Functions:
+ -> with para with return
+ -> with para without return 
+ -> with return without para
+ -> without return without para
+
