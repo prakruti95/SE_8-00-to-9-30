@@ -1,0 +1,67 @@
+Functions:When you want to reuse same code again and again
+
+Types of Functions
+1)Inbuilt Function
+string functions:string.h
+strlen
+strcpy
+strcmp
+strcat
+strlwr
+strupr
+strrev
+
+math functions:math.h
+floor
+ceil
+sqrt
+pow
+abs
+
+2)User defined Function:
+
+ -> with parameter with return type
+ -> with parameter without return type
+ -> without parameter with return type
+ -> without parameter without return type
+
+function:
+
+int cal(int a,int b)
+{
+	return a;
+}
+
+
+void cal(int a,int b)
+{
+
+}
+
+int cal()
+{
+	return 0;	
+}
+
+void cal()
+{
+
+}
+int -> return type
+cal -> function name
+
+int a ,int b -> parameters
+return 
+
+
+
+
+
+
+
+
+
+
+
+
+
